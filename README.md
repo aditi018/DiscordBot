@@ -1,6 +1,6 @@
 # Instructions
 
-To use this code, follow the following instructions:
+To use this code , follow the following instructions:
 1. Install all dependencies:
 
    *npm i*
